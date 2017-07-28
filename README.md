@@ -7,3 +7,7 @@ numberstrivia connects to an API that returns a random fact about a number.
 
 pokemon: returns a 3d gif of a given pokemon by name or their ID. Always has spell check which 
 means that you can spell the name of the pokemon wrong and still get the right result if the spelling was close enough.
+
+Cipher: Cipher turns string in to atbash and atbash in to string
+
+Numbers: Numbers turns numbers in to works example: 1234567 in to 1 million 234 thousand and 567.
